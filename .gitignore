@@ -1,0 +1,14 @@
+# 忽略数据文件（大文件不上传）
+data/raw/
+data/processed/
+
+# 忽略临时文件
+*.tmp
+*.log
+
+# 忽略 IDE 文件
+.idea/
+.vscode/
+
+# 忽略 Tableau 临时文件
+*.twb~
