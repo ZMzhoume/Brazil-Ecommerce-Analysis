@@ -12,4 +12,14 @@
 
 ## 📂 文件结构
 ```plaintext
-（粘贴上述仓库树状结构）
+└── Brazil-Ecommerce-Analysis/
+    ├── data/
+    │   └── README.md        # 说明数据来源和下载方式
+    ├── notebooks/
+    │   ├── 1_data_cleaning.ipynb
+    │   └── 2_eda_analysis.ipynb
+    ├── sql/
+    │   └── business_queries.sql
+    ├── tableau/
+    │   └── ecommerce_dashboard.twb
+    └── README.md   
