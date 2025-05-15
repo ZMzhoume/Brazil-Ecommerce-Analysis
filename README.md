@@ -22,6 +22,7 @@
     │   └── business_queries.sql
     ├── tableau/
     │   └── ecommerce_dashboard.twb
+<<<<<<< HEAD
     └── README.md   
 ##
 新手初次完成项目，若有问题请大佬指教
@@ -29,3 +30,12 @@
 -tableau仪表盘美化
 -生成一篇报告分析
 -使用excel完成报表
+=======
+    └── README.md
+新手初次完成项目，若有问题请大佬指教
+
+##待完成
+-tableau仪表盘美化
+-生成一篇报告分析
+-使用excel完成报表
+>>>>>>> 1e6af1690136b4873158828b1f03dc5ad7fb377a
