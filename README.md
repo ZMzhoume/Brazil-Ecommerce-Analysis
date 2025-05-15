@@ -22,4 +22,9 @@
     │   └── business_queries.sql
     ├── tableau/
     │   └── ecommerce_dashboard.twb
-    └── README.md   
+    └── README.md
+新手初次完成项目，若有问题请大佬指教
+##待完成
+-tableau仪表盘美化
+-生成一篇报告分析
+-使用excel完成报表
